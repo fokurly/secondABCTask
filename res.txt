@@ -1,0 +1,21 @@
+container size: 5
+----------
+answer on the riddle: qwerty
+Riddle: one two three four five
+Meaning: 5
+----------
+aphorism author: good
+aphorism: qwerty
+Meaning: 0
+----------
+country of proverb: john
+proverb: i am batman
+Meaning: 5
+----------
+aphorism author: koli
+aphorism: save my life
+Meaning: 6
+----------
+answer on the riddle: mystery
+Riddle: harry potter
+Meaning: 12

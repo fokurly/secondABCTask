@@ -1,0 +1,3 @@
+C:/Users/buval/CLionProjects/SecondAbcTask/cmake-build-debug-visual-studio/CMakeFiles/SecondAbcTask.dir
+C:/Users/buval/CLionProjects/SecondAbcTask/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/buval/CLionProjects/SecondAbcTask/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
